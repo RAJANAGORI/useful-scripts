@@ -1,4 +1,6 @@
-## This code reads a list of URLs from a file, generates a wordlist for each URL using the cewl command, and prints messages indicating which URL is currently being processed and when the wordlist for each URL has been generated.
+## This code reads a list of URLs from a file, generates a wordlist for each URL using the cewl command, 
+## and prints messages indicating which URL is currently 
+## being processed and when the wordlist for each URL has been generated.
 import os
 
 # Open file containing URLs
